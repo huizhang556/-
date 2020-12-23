@@ -39,6 +39,8 @@ git pull origin master    //下载
 
 在这里我添加了dev分支。
 
+在master分支我改变了文件。
+
 
 
 
