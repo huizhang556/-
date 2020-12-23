@@ -24,7 +24,17 @@ git remote add origin git@github.com:mygithub/test.git  //这里换成你要克�
 
 git pull origin master    //下载
 
+例如：将gitLab 上的dev分支拉取到本地
 
+1》与远程仓库建立连接：git remote add origin XXXXX.git
+
+2》使用git branch 查看本地是否具有dev分支
+
+3》如果没有 git fetch origin dev
+
+4》git checkout -b dev origin/dev在本地创建分支dev并切换到该分支
+
+5》git pull origin dev就可以把gitLab上dev分支上的内容都拉取到本地了
 
 
 
