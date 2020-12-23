@@ -37,6 +37,7 @@ git pull origin master    //下载
 5》git pull origin dev就可以把gitLab上dev分支上的内容都拉取到本地了
 
 
+在这里我添加了dev分支。
 
 
 
