@@ -7,7 +7,8 @@ Qt中如何实现关键字搜索表名？
 15891074979
 13191863449
 
-
+快速下载：
+那么我们仅需把github.com换成github.com.cnpmjs.org
 
 ssh -T git@github.com
 
